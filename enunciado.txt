@@ -1,0 +1,14 @@
+Tema C - Considere uma aplicação para gestão de mensagens (posts), utilizadores e publicidade numa rede
+social. A aplicação deverá oferecer várias operações sobre mensagens, tais como, criar, responder, listar, editar
+e consultar histórico. O gestor é responsável pela criação/eliminação das salas de comunicação, assim como
+pela gestão de clientes e utilizadores. As salas de comunicação podem exibir publicidade patrocinada pelos
+clientes, que especificam os temas para os quais a publicidade deverá ser exibida. Os utilizadores podem listar
+as pessoas que estão a usar a mesma sala de comunicação e também enviar mensagens privadas a outros
+utilizadores. A comunicação da aplicação com o(s) utilizador(es) deverá ser efetuada através de um interface
+gráfico e os dados deverão ser objeto de armazenamento permanente. Deverá evitar-se qualquer tipo de
+redundância de dados.
+
+NOTA: as soluções a construir devem representar, o mais possível, uma situação real, ainda que dentro do
+contexto em que são desenvolvidas. Em cada um dos temas, as funcionalidades apresentadas são consideradas
+uma amostra representativa de um conjunto de funcionalidades, no âmbito de cada um dos problemas, podendo
+ser adicionadas outras funcionalidades que considerem necessárias e úteis.
